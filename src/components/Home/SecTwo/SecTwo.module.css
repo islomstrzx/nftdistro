@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.title {
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.003em;
+}
+.main {
+  margin-top: 120px;
+}
+.df {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 85%;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  margin-top: 50px;
+  height: 400px;
+  width: 291px;
+  margin-bottom: 50px;
+  height: 400px;
+  border-radius: 11.426274299621582px;
+}
+.imgone {
+  width: 267px;
+  height: 277px;
+  border-radius: 5.713137149810791px;
+}
+.name {
+  font-size: 18px;
+  font-weight: 700;
+  padding-top: 10px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  text-align: left;
+}
+.portret {
+  margin-top: 10px;
+}
+.nameport {
+  padding-left: 42px;
+  margin-top: -31px;
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 1px;
+  text-align: left;
+}
+.bid {
+  padding-left: 140px;
+  margin-top: -50px;
+}
+.boxone {
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+.boxthree {
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+.boxfour {
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+.bidc {
+  font-family: DM Sans;
+  font-size: 14px;
+  color: #6b6b6b;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 20px;
+  margin-top: 40px;
+}
+.imgbid {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+.proce {
+  margin-top: -37px;
+  padding-left: 40px;
+}
+.bidd {
+  margin-left: 140px;
+  width: 190px;
+  margin-top: -80px;
+  height: 30px;
+}

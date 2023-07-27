@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+.main {
+  width: 100%;
+  height: 100vh ;
+  background-color: black;
+}
+.title {
+  font-family: Dm Sans;
+  font-size: 58px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: -0.003em;
+  text-align: center;
+  margin-top: -130px;
+}
+.team {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: space-evenly;
+}
+.box h1 {
+  font-family: DM Sans;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.box p {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #6b6b6b;
+}
+.join {
+  width: 1241.3125px;
+  height: 392.5953369140625px;
+  background: #1f1f1f;
+  border-radius: 40px;
+  margin: auto;
+  margin-top: 100px;
+}
+.join h1 {
+  font-family: DM Sans;
+  font-size: 69px;
+  font-weight: 700;
+  line-height: 85px;
+  letter-spacing: -0.003em;
+  text-align: center;
+  padding-top: 40px;
+}
+.join p {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 715px;
+  margin-left: 250px;
+}
+.join button {
+  width: 281px;
+  height: 69px;
+  border-radius: 15.742246627807617px;
+  gap: 12.59379768371582px;
+  font-family: DM Sans;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: aliceblue;
+  background: linear-gradient(108.39deg, #ff56bb 6.99%, #ff8f77 119.86%);
+  border: none;
+  margin-left: 480px;
+  margin-top: 30px;
+}

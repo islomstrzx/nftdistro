@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.div {
+  width: 290px;
+  height: 400px;
+  border-radius: 11.426274299621582px;
+  gap: 11.426274299621582px;
+  background: #1f1f1f;
+  padding: 10px;
+  margin: 40px;
+}
+.img {
+  width: 267.0850830078125px;
+  height: 277.0701599121094px;
+  border-radius: 5.713137149810791px;
+}
+.ava {
+    margin-top: 17px;
+}
+.name {
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 45px;
+  margin-top: -27px;
+}
+.biid {
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: end;
+  color: #6b6b6b;
+  padding-right: 50px;
+  margin-top: -45px;
+}
+.biiiid {
+  margin-left: 160px;
+  margin-top: -40px;
+}
+.title {
+  padding-top: 10px;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}

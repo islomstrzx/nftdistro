@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.title {
+  font-family: DM Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.003em;
+  text-align: center;
+}
+.imgs {
+  margin-top: 50px;
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-top: 100px;
+}
+.imgs img {
+  margin-bottom: 20px;
+}
+.main {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

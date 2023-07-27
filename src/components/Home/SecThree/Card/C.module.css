@@ -1,0 +1,180 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.main {
+  position: relative;
+  margin-top: 40px;
+  background: #1f1f1f;
+  width: 582.463134765625px;
+  height: 380.8139343261719px;
+  border-radius: 8.993762016296387px;
+  gap: 8.993762016296387px;
+}
+.mainimg {
+  width: 283.31439208984375px;
+  height: 344.79888916015625px;
+  border-radius: 14.168022155761719px;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  top: 20px;
+}
+.avatar {
+  position: absolute;
+  left: 300px;
+  top: 30px;
+}
+.name {
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  position: absolute;
+  color: #f4f4f4;
+  top: 36px;
+  left: 350px;
+}
+.title {
+  font-family: DM Sans;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.003em;
+  position: absolute;
+  color: #f4f4f4;
+  left: 300px;
+  top: 100px;
+}
+.subtitle {
+  font-family: DM Sans;
+  font-size: 14px;
+  width: 260px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  top: 160px;
+  position: absolute;
+  color: #f4f4f4;
+
+  left: 300px;
+}
+.mainbid {
+  position: absolute;
+  top: 260px;
+  left: 300px;
+}
+.mainbidstsus {
+  position: absolute;
+  top: 240px;
+  color: #6b6b6b;
+
+  left: 300px;
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.end {
+  position: absolute;
+  top: 240px;
+  color: #6b6b6b;
+  left: 430px;
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.in {
+  position: absolute;
+  top: 260px;
+  left: 430px;
+  font-family: DM Sans;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.nana {
+  background: linear-gradient(108.39deg, #ff56bb 6.99%, #ff8f77 119.86%);
+  border: none;
+  outline: none;
+  width: 194px;
+  margin-left: 140px;
+  margin-top: 50px;
+  height: 43px;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  position: absolute;
+  top: 270px;
+  left: 155px;
+}
+.nana a{color: white;}
+@media only screen and (max-width: 646px) {
+  .avatar {
+    position: absolute;
+    left: 200px;
+    top: 30px;
+  }
+  .name {
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    position: absolute;
+    color: #f4f4f4;
+    top: 36px;
+    left: 250px;
+  }
+  .main {
+    position: relative;
+    margin-top: 40px;
+    background: #1f1f1f;
+    width: 420.463134765625px;
+    height: 350.8139343261719px;
+    border-radius: 8.993762016296387px;
+    gap: 8.993762016296387px;
+  }
+  .title {
+    left: 200px;
+  }
+  .mainimg {
+    width: 203.31439208984375px;
+    height: 300.79888916015625px;
+    border-radius: 14.168022155761719px;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    top: 20px;
+  }
+  .subtitle {
+    left: 200px;
+  }
+  .mainbidstsus {
+    left: 200px;
+  }
+  .mainbid {
+    left: 200px;
+  }
+  .end {
+    left: 300px;
+  }
+  .in {
+    left: 300px;
+  }
+  .nana {
+    width: 200px;
+    left: 70px;
+    position: absolute;
+    top: 240px;
+  }
+}

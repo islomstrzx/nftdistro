@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.form-control {
+  width: 400px;
+}
+#formFileLg {
+  width: 400px !important;
+}
+.form-control {
+  width: 400px !important;
+}
+.form-control-lg {
+  width: 400px !important;
+}
+.forma {
+  width: 540px;
+  height: 305px;
+  margin-bottom: 30px;
+}
+.width {
+  width: 540px;
+}
+.margin {
+  margin-left: 240px;
+  margin-top: 140px;
+}
+.create {
+  font-family: DM Sans;
+  font-size: 58px;
+  font-weight: 500;
+  line-height: 72px;
+  letter-spacing: -0.003em;
+  text-align: center;
+  margin-top: 100px;
+}
+.aass {
+  width: 30px;
+  margin-right: 10px;
+}
+.sas {
+  margin-left: 800px;
+  margin-top: -860px;
+}
+.btn {
+  font-family: DM Sans;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: linear-gradient(108.39deg, #ff56bb 6.99%, #ff8f77 119.86%);
+  width: 538px;
+  height: 83px;
+  border-radius: 15.742246627807617px;
+  gap: 12.59379768371582px;
+  margin-left: 240px;
+  margin-top: 50px;
+  outline: none;
+  border: none;
+  color: aliceblue;
+}

@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.title {
+  width: 100%;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 69px;
+  font-weight: 500;
+  line-height: 85px;
+  letter-spacing: -0.003em;
+  text-align: center;
+  margin-top: 100px;
+}
+.form {
+  margin-top: -30px;
+  width: 555px;
+  height: 60px;
+  margin-left: 620px;
+  background-color: transparent;
+}
+.form-control {
+  background-color: black !important;
+  color: aliceblue !important;
+  border-radius: 20px;
+}

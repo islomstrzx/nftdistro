@@ -1,0 +1,150 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.footer {
+  width: 100%;
+  padding: 200px;
+  height: 600px;
+  background-color: black;
+}
+.log {
+  margin: 5px;
+}
+.logo {
+  margin: 5px;
+}
+.logow {
+  margin: 5px;
+}
+.asa {
+  margin-left: 1050px;
+  margin-top: 40px;
+}
+.nft {
+  font-family: DM Sans;
+  font-size: 41px;
+  font-weight: 500;
+  line-height: 51px;
+  letter-spacing: -0.003em;
+  text-align: left;
+  padding-top: 70px;
+}
+.exp {
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  width: 400px;
+  text-align: left;
+  padding-top: 10px;
+}
+.copyright {
+  margin-top: 60px;
+}
+.copt {
+  padding-left: 30px;
+  margin-top: -15px;
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.company {
+  padding-left: 700px;
+  margin-top: -300px;
+  font-family: DM Sans;
+  left: 900px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.ecplore {
+  padding-left: 700px;
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  left: 900px;
+  line-height: 23px;
+  top: 90px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-top: 20px;
+}
+.about {
+  padding-left: 700px;
+  font-family: DM Sans;
+  left: 900px;
+  top: 150px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.crreator {
+  padding-left: 900px;
+  margin-top: -130px;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.br {
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  padding-left: 900px;
+  padding-top: 19px;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.art {
+  padding-left: 900px;
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.join {
+  padding-left: 1100px;
+  width: 1400px;
+  margin-top: -130px;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.face {
+  margin-left: 10px;
+}
+.twit {
+  margin-left: 10px;
+}
+.ggog {
+  margin-left: 10px;
+}
+.aple {
+  margin-left: 10px;
+}
+.aqw {
+  width: 400px;
+  margin-left: 1100px;
+  margin-top: 100px;
+}
+a {
+  text-decoration: none;
+}
+.ateg {
+  color: white;
+}

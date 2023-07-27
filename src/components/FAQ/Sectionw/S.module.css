@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+.main {
+  width: 100%;
+  background-color: black;
+  height: 90vh;
+}
+.title {
+  padding-top: 300px;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 58px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: -0.003em;
+}
+.div {
+  width: 70%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+.div img {
+  margin-top: 20px;
+  margin-left: 70px;
+  width: 177.85568237304688px;
+}

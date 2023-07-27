@@ -1,0 +1,102 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic);
+
+.nav {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 40px;
+}
+.logo img {
+  margin-left: 2px;
+}
+.logo {
+  margin-top: -6px;
+}
+.form {
+  margin-left: -250px;
+  margin-top: 6px;
+  width: 240px;
+}
+.navlnk a {
+  color: aliceblue;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 70px;
+  text-decoration: none;
+}
+.navlnk {
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+}
+@media only screen and (max-width: 1435px) {
+  .form {
+    margin-left: -230px;
+  }
+}
+@media only screen and (max-width: 1184px) {
+  .form {
+    margin-left: -100px;
+  }
+}
+@media only screen and (max-width: 920px) {
+  .form {
+    display: none;
+  }
+}
+@media only screen and (max-width: 495px) {
+  .logo {
+    margin-left: 30px;
+    width: 200px;
+  }
+  .navlnk a {
+    font-size: 15px;
+    margin: 0%;
+  }
+  .navlnk {
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
+@media only screen and (max-width: 310px) {
+  .navlnk {
+    display: none;
+    width: 350px;
+  }
+  .logo {
+    margin-left: 180px;
+  }
+}
+/*278 gacha  */
+@media only screen and (max-width: 500px) {
+  .logo {
+    margin-left: 30px;
+    width: 200px;
+  }
+  .navlnk a {
+    font-size: 14px;
+    margin: 0%;
+  }
+  .navlnk {
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
+.o {
+  width: 90px;
+  margin-left: 20px;
+  height: 40px;
+  background-color: transparent;
+  border: 1px white solid;
+  margin-top: -8px;
+}
